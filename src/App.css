@@ -40,11 +40,11 @@ body {
 
 .cat__segment:before {
   animation: loop 2s cubic-bezier(0.6, 0, 0.4, 1)
-                                infinite running;
+    infinite running;
   background: linear-gradient(90deg,
-                        white 20%,
-                  #e6e6e6 20% 80%,
-                       white 80%);
+    white 20%,
+    #e6e6e6 20% 80%,
+   white 80%);
   border-radius: 0.25em;
   content: "";
   display: block;
